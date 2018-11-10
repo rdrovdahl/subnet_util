@@ -10,9 +10,9 @@ the format of IPv4 IP Addresses and Subnet Masks.
   * [check_mask method](#check_mask-method)
 
 # Creating an object
-This library uses the Subnet_util class.  To create an object, you'll need to supply two arguments.
+This library uses the Subnet_util class.  To create an object, you'll need to supply two arguments:
 
-**IP Address** and **Subnet Mask**.
+    **IP Address** and **Subnet Mask**.
 
 Here's an example of creating an object and calling its attributes
 ```
