@@ -5,9 +5,9 @@ Simple library that can be used to perform subnet calculations and validate
 the format of IPv4 IP Addresses and Subnet Masks.
 
 ## Table of Contents
-  * [creating an object](#creating an object)
-  * [check_ip Method](#check_ip)
-  * [check_mask Method](#check_mask)
+  * [creating an object](#creating-an-object)
+  * [check_ip Method](#check_ip-method)
+  * [check_mask Method](#check_mask-method)
 
 # creating an object
 This library uses the Subnet_util class.  To create an object, you'll need to supply two arguments:
