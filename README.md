@@ -27,10 +27,17 @@ $ a.subnet_mask
 '255.255.255.0'
 ```
 # check_ip method
-do this like this...
-
+The check_ip method will check the validity of the ip address.  If the address is valid, it will return 'True'.  If it is not valid, it will return 'False'
+```
+$ a.check_ip()
+True
+```
 # check_mask method
-and do this like this....
+The check_mask method will check the validity of the subnet mask.  If the subnet mask is valid, it will return 'True'.  If it is not valid, it will return 'False'
+```
+$ a.check_mask()
+True
+```
 
 
 ### Special Recognition
